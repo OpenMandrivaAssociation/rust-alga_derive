@@ -1,0 +1,11 @@
+--- alga_derive-0.9.1/Cargo.toml        1970-01-01T00:00:00+00:00
++++ alga_derive-0.9.1/Cargo.toml        2019-09-13T19:29:35.503993+00:00
+@@ -31,7 +31,7 @@
+ version = "0.4"
+ 
+ [dependencies.quickcheck]
+-version = "0.8"
++version = "0.9"
+ 
+ [dependencies.quote]
+ version = "0.6"
